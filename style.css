@@ -1,0 +1,29 @@
+h1 ,h2, .menu {
+    text-align: center;
+    color:crimson;
+  }
+  
+    h3, h5, h6 {
+    color:blueviolet;
+  }
+  
+  h4 {
+    color:rgb(218, 177, 75);
+  }
+  
+  .icerik {
+    text-align: left;
+  }
+  
+  body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif , sans-serif;
+    text-align: center;
+  }
+  p {
+      color: black;
+  }
+  
+  img {
+    width: 300px;
+    height: 300px;
+  }
